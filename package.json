@@ -1,0 +1,16 @@
+{
+  "name": "formedix-tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Consolidated_Scenarios": "cd && node Consolidated_Scenarios.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^8.31.1",
+    "webdriverio": "^8.31.1"
+  }
+}
